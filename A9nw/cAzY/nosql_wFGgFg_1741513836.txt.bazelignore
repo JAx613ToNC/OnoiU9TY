@@ -11,7 +11,6 @@ src/third_party/wiredtiger/dist
 # We recommend that all node_modules folders in the source tree be ignored,
 # to avoid Bazel printing confusing error messages.
 # 
-# Either add line(s) to @//:.bazelignore:
 # 
 # node_modules
 # 
